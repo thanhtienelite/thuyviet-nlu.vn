@@ -1,0 +1,6 @@
+{
+  "name": "Thụy Việt",
+  "description": "Dự án DA55 – Giải pháp Synbiotic từ phụ phẩm chuối xanh cho chăn nuôi bền vững | Vòng Bán kết Cuộc thi Khởi nghiệp Nông nghiệp 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
